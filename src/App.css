@@ -40,3 +40,22 @@
 .read-the-docs {
   color: #888;
 }
+th{
+  border-bottom: solid 1px white
+}
+td{
+  padding: 32px;
+  border-bottom: solid 1px white
+}
+
+tr{
+  padding: 32px;
+  border: solid 1px white
+}
+button {
+  margin: 10px;
+}
+.pic{
+  display: flex;
+  flex-direction: column;
+}
